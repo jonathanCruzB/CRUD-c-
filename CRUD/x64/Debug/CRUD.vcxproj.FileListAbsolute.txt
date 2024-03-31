@@ -1,0 +1,5 @@
+C:\Users\Sneider Cruz\Desktop\CRUD\CRUD\x64\Debug\CRUD.vcxproj.AssemblyReference.cache
+C:\Users\Sneider Cruz\Desktop\CRUD\CRUD\x64\Debug\CRUD.Form1.resources
+C:\Users\Sneider Cruz\Desktop\CRUD\CRUD\x64\Debug\CRUD.vcxproj.GenerateResource.cache
+C:\Users\Sneider Cruz\Desktop\CRUD\CRUD\x64\Debug\CRUD.vcxproj.Up2Date
+C:\Users\Sneider Cruz\Desktop\CRUD\CRUD\x64\Debug\CRUD.Modificar.resources
